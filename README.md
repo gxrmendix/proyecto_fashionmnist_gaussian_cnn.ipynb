@@ -1,0 +1,1 @@
+# proyecto_fashionmnist_gaussian_cnn.ipynb
