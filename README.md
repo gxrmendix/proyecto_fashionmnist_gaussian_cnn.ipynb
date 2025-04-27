@@ -11,8 +11,8 @@ El objetivo es demostrar el impacto positivo del suavizado en la eliminación de
 ```
 Proyecto2_Filtros_CNN_FashionMNIST/
 ├── README.md
-├── requirements.txt
 ├── proyecto_fashionmnist_gaussian_cnn.ipynb
+├── requirements.txt
 ```
 
 ## Instrucciones de Ejecución
